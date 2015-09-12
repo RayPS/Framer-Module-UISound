@@ -1,7 +1,7 @@
 ## UISound Module for FramerJS
 
 #### DEMO:
-### 👉 <http://share.framerjs.com/ir6s024bzz88/>
+### 👉 <http://share.framerjs.com/95t3ttjoj7om/>
 
 #### Use:
 Place `uisound.coffee` to the folder named "module" in your project.
