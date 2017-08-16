@@ -1,20 +1,22 @@
 ## UISound Module for FramerJS
+UI sound for your prototype
 
 #### DEMO:
-### 👉 <http://share.framerjs.com/95t3ttjoj7om/>
+ 👉 <http://share.framerjs.com/95t3ttjoj7om/>
 
-#### Use:
-Place `uisound.coffee` to the folder named "module" in your project.
+#### Usage:
+Place `uisound.coffee` into the `modules` folder of your project.
 
 ``` coffeescript
 {UISound} = require "uisound"
-# ...
+
 beep = new UISound("sounds/beep.mp3")
 
-button.on Events.Click, ->
+button.onTap ->
 	beep.play()
-	# ...
+
 ```
+<a href="#"><img width="160px" src='fm-badge@2x.png'></a>
 
 #### File formats:
 
