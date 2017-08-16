@@ -1,0 +1,11 @@
+{
+    "name": "UISound",
+    "description": "UI sound for your prototype",
+    "author": "rayps",
+
+    "require": "{UISound} = require \"uisound\"",
+    "install": "uisound.coffee",
+    "example": "snippet.coffee",
+
+    "thumb": "thumb@2x.png"
+}
